@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="109.69073mm"
+   height="71.122444mm"
+   viewBox="0 0 109.69073 71.122444"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1">
+    <rect
+       x="102.15461"
+       y="104.1977"
+       width="431.09244"
+       height="98.06842"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.031385,-53.273264)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.456px;font-family:Pristina;-inkscape-font-specification:Pristina;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="57.494888"
+       y="95.663284"
+       id="text7"
+       transform="scale(0.90260736,1.1079014)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';fill:#ff0000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="57.494888"
+         y="95.663284">ML</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26923585,0,0,0.26452058,27.359313,77.580855)"
+       id="text5"
+       style="font-size:85.3333px;font-family:Centaur;-inkscape-font-specification:Centaur;white-space:pre;shape-inside:url(#rect5);fill:#000000;stroke:#000000;stroke-width:1.51181"><tspan
+         x="102.1543"
+         y="175.25904"
+         id="tspan1">ML Finances</tspan></text>
+  </g>
+</svg>
