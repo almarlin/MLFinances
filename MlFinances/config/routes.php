@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Routes configuration.
  *
@@ -23,6 +24,10 @@
 
 use Cake\Routing\Route\DashedRoute;
 use Cake\Routing\RouteBuilder;
+// config/routes.php
+
+$routes->connect('/', ['controller' => 'Pages', 'action' => 'display', 'principal']);
+
 
 /*
  * This file is loaded in the context of the `Application` class.
