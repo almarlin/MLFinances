@@ -26,7 +26,7 @@ use Cake\Routing\Route\DashedRoute;
 use Cake\Routing\RouteBuilder;
 // config/routes.php
 
-$routes->connect('/', ['controller' => 'Pages', 'action' => 'display', 'principal']);
+$routes->connect('/', ['controller' => 'Pages', 'action' => 'display', 'index']);
 
 
 /*
